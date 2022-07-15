@@ -1,0 +1,11 @@
+date,region,product,units_sold,unit_price,total_revenue
+2021-01-01,East,Widget,10,20.0,200.0
+2021-01-02,West,Gadget,15,25.0,375.0
+2021-01-03,North,Widget,5,20.0,100.0
+2021-01-04,South,Gadget,12,25.0,300.0
+2021-01-05,East,Widget,7,20.0,140.0
+2021-01-06,West,Gadget,18,25.0,450.0
+2021-01-07,North,Widget,6,20.0,120.0
+2021-01-08,South,Gadget,11,25.0,275.0
+2021-01-09,East,Widget,9,20.0,180.0
+2021-01-10,West,Gadget,14,25.0,350.0
